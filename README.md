@@ -20,7 +20,7 @@ Morgan
 ## Features
 Enter deposits offline<br>
 Enter expenses offline<br>
-When brought back online, Offline entries should be added to tracker
+When brought back online, offline entries should be added to tracker
 
 
 ## User Story

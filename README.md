@@ -35,7 +35,7 @@ https://on-off-budget-trackers.herokuapp.com/
 
 
 Offline Image
-![Offline Image](Public/Assets/Images/Offline.png)
+![Offline Image](./Public/Assets/Images/Offline.png)
 
 Online Image
-![Online Image](Public/Assets/Images/Online.png)
+![Online Image](./Public/Assets/Images/Online.png)

@@ -31,7 +31,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deployed Application
 
-https://on-off-budget-trackers.herokuapp.com/
+[Budget Trackers](https://on-off-budget-trackers.herokuapp.com/)
 
 
 Offline Image
